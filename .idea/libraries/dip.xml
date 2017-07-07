@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../cs464-564/cs464-564/dip.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cs464-564/cs464-564/jai_codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cs464-564/cs464-564/jai_core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../cs464-564/cs464-564/Jama-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

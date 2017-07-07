@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="deneme:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/deneme_jar</output-path>
+    <root id="archive" name="deneme.jar">
+      <element id="module-output" name="deneme" />
+    </root>
+  </artifact>
+</component>
