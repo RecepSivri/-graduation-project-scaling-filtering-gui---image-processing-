@@ -34,3 +34,8 @@ Now If I talk about user interface ,the user interface components are :
          -Menu for user.
         
 ![](images/menu.PNG)
+
+ 6.SAMPLE DESIGN:
+ 
+ ![](images/simpledesign.PNG)
+ 
