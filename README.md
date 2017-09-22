@@ -6,9 +6,8 @@ Now If I talk about user interface ,the user interface components are :
          -Status box is a box that provides informations about filter that is used.
             
 ![](images/statusbox.PNG)   
- 
  2.TOOLBOX:
-         -Tool box is a box that provides all tools that are used to design.
-         ![](images/toolbox.PNG)   
+         -Tool box is a box that provides all tools that are used to design. 
          
-            
+        
+        ![](images/toolbox.PNG) 
