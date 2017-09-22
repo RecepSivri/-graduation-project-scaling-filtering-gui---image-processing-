@@ -4,7 +4,7 @@ Nowadays engineers and workers usually use more than one filters in image proces
     
      1.STATUSBOX:
          -Status box is a box that provides informations about filter that is used.
-         ![](images/statusbox.png)
+         ![](images/statusbox.PNG)
 
           
        
