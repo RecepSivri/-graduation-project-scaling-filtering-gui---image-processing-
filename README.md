@@ -21,5 +21,5 @@ Now If I talk about user interface ,the user interface components are :
          
          
          
- ![](images/toolbox.PNG)
+ ![](images/filterbox.PNG)
 
