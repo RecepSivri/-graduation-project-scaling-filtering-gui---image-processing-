@@ -39,3 +39,40 @@ Now If I talk about user interface ,the user interface components are :
  
  ![](images/simpledesign.PNG)
  
+ Technologies Are Used:
+ 
+     -Intellij idea
+     -JavaFx
+     -Java(Version 8 Update 71)
+     
+ Filters Are Implemented:    
+    
+     -Highpass Filter
+     -Lowpass Filter
+     -Bandreject Filter
+     -Bandpass Filter
+     -Gaussian Filter
+     -Median Filter
+     -Mean Filter
+     -Sobel Filter
+     -Prewitt Filter
+     -Laplace Filter
+     -Sharping Filter
+
+Operators Are Implemented:    
+    
+     -AND Operator
+     -OR Operator
+     -XOR Operator
+     -NOT Operator
+     -SUM Operator
+     -SUB OPERATOR
+     -MULTIPLICATION Operator
+     -DIVISION Operator
+     
+     
+ Also This program provides debug running mode:
+ 
+ 
+     
+
