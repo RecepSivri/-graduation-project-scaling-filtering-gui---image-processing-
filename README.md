@@ -12,3 +12,14 @@ Now If I talk about user interface ,the user interface components are :
          
          
  ![](images/toolbox.PNG) 
+ 
+ 
+ 
+  3.FILTERBOX:
+         -Filter box is a box that provides all filters and operators that are used to design. 
+         
+         
+         
+         
+ ![](images/toolbox.PNG)
+
