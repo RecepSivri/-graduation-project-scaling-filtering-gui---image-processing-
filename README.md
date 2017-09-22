@@ -9,5 +9,6 @@ Now If I talk about user interface ,the user interface components are :
  2.TOOLBOX:
          -Tool box is a box that provides all tools that are used to design. 
          
-        
-        ![](images/toolbox.PNG) 
+         
+         
+ ![](images/toolbox.PNG) 
