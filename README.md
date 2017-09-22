@@ -22,4 +22,11 @@ Now If I talk about user interface ,the user interface components are :
          
          
  ![](images/filterbox.PNG)
+ 
+ 
+ 
+ 4.LOGGERSCREEN:
+        -This is a screen that provides bugs and information about design.
+        
+ ![](images/loggerscreen.PNG)
 
