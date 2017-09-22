@@ -30,7 +30,7 @@ Now If I talk about user interface ,the user interface components are :
         
  ![](images/loggerscreen.PNG)
 
- 5.MENU
-        -Menu for user.
+ 5.MENU:
+         -Menu for user.
         
 ![](images/menu.PNG)
