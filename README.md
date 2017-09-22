@@ -72,6 +72,8 @@ Operators Are Implemented:
      
      
  Also This program provides debug running mode:
+  
+ ![](images/debug.PNG)
  
  
      
